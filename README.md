@@ -1,6 +1,24 @@
----
-owner-repo: Kotlin/kotlin-interactive-shell
-desc:   Kotlin Language Interactive Shell
----
-
 # kotlin-interactive-shell
+
+Kotlin Language Interactive Shell
+
+- **Upstream**: <https://github.com/Kotlin/kotlin-interactive-shell>
+- **Homepage**: <>
+- **Latest release**: `v0.5.2` (2022-07-07)
+- **Last commit**: 2023-11-07
+- **License**: Apache-2.0
+- **Stars**: 611 · **Forks**: 39 · **Open issues**: 87 · **Contributors**: 41
+
+## Installation
+
+```sh
+x install kotlin-interactive-shell
+```
+
+See <https://x-cmd.com/install/kotlin-interactive-shell> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T12:35:40Z._
