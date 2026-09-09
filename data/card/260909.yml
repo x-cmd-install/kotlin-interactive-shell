@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.2"
   latestRelease: "v0.5.2"
   latestPrerelease: "v0.2.3"
-  collectedAt: 2026-09-09T06:28:37Z
+  collectedAt: 2026-09-09T20:55:16Z
 timeline:
   created: 2017-04-12
   lastCommit: 2023-11-07
@@ -16,7 +16,7 @@ timeline:
   lastPrerelease: 2018-06-20
 popularity:
   star: 611
-  watcher: 24
+  watcher: 23
   fork: 39
   release: 14
   contributor: 41
@@ -86,7 +86,7 @@ total:
   commit: 356
 ---
 path: /home/runner/.x-repo/github.com/Kotlin/kotlin-interactive-shell
-collectedAt: 2026-09-09T06:28:38Z
+collectedAt: 2026-09-09T20:55:18Z
 loc:
   Java:
     code: 20642
