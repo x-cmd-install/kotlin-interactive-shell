@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": null,
-      "download_count": 1562,
+      "download_count": 1563,
       "created_at": "2022-07-07T14:30:08Z",
       "updated_at": "2022-07-07T14:30:08Z",
       "browser_download_url": "https://github.com/Kotlin/kotlin-interactive-shell/releases/download/v0.5.2/checksums_sha256.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 64151230,
       "digest": null,
-      "download_count": 14690,
+      "download_count": 14692,
       "created_at": "2022-07-07T14:29:56Z",
       "updated_at": "2022-07-07T14:30:08Z",
       "browser_download_url": "https://github.com/Kotlin/kotlin-interactive-shell/releases/download/v0.5.2/ki-archive.zip"
