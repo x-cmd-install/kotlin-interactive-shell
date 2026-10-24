@@ -14,15 +14,15 @@ x install kotlin-interactive-shell
 
 ## 代码洞察
 
-合计: **24,732** 行代码（覆盖前 5 种语言、共 **61** 个文件）。
+合计: **26,794** 行代码（覆盖前 5 种语言、共 **81** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Java | 20,642 | 1,381 | 413 | 3 |
-| Kotlin | 3,246 | 53 | 1,007 | 52 |
-| Xml | 444 | 3 | 7 | 3 |
-| Sh | 221 | 64 | 37 | 2 |
-| Batch | 153 | 0 | 35 | 1 |
+| Kotlin | 5,107 | 63 | 1,263 | 69 |
+| Xml | 586 | 8 | 10 | 4 |
+| Sh | 222 | 65 | 38 | 3 |
+| Batch | 178 | 0 | 42 | 2 |
 
 ## 源代码
 
@@ -31,35 +31,34 @@ x install kotlin-interactive-shell
 
 ## 发布
 
-- **最新版本**: `v0.5.2` (2022-07-07)
-- **最近提交**: 2026-10-09
-- **Release 含资产**: 2 个
+- **最新版本**: `v0.6.0` (2026-10-23)
+- **最近提交**: 2026-10-23
+- **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 615 · **Fork**: 41 · **开放 issue**: 87 · **贡献者**: 43
+- **Star**: 615 · **Fork**: 42 · **开放 issue**: 87 · **贡献者**: 45
 
 ## 累计统计
 
-- **发布数**: 14 · **已合并 PR**: 37 · **开放 PR**: 0 · **已关闭 issue**: 55 · **开放 issue**: 32 · **提交数**: 357
+- **发布数**: 15 · **已合并 PR**: 38 · **开放 PR**: 0 · **已关闭 issue**: 68 · **开放 issue**: 19 · **提交数**: 370
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-02 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 30d | 2026-09-24 | 1 | 1 | 0 | 0 | 0 | 13 |
+| last60d | 2026-08-25 | 1 | 1 | 0 | 0 | 0 | 13 |
+| 90d | 2026-07-26 | 1 | 1 | 0 | 0 | 0 | 13 |
+| last180d | 2026-04-27 | 1 | 1 | 0 | 0 | 0 | 13 |
+| 360d | 2025-10-29 | 1 | 1 | 0 | 0 | 0 | 13 |
+| last720d | 2024-11-03 | 1 | 2 | 0 | 0 | 0 | 14 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums_sha256.txt](https://github.com/Kotlin/kotlin-interactive-shell/releases/download/v0.5.2/checksums_sha256.txt) | 81 B | `other` |
-| [ki-archive.zip](https://github.com/Kotlin/kotlin-interactive-shell/releases/download/v0.5.2/ki-archive.zip) | 61.2 MiB | `other` |
+| [ki-archive.zip](https://github.com/Kotlin/kotlin-interactive-shell/releases/download/v0.6.0/ki-archive.zip) | 66.9 MiB | `other` |
 
 ## 改进这些数据
 
@@ -70,4 +69,4 @@ kotlin-interactive-shell 的安装元数据由 [x-cmd/install](https://github.co
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T06:07:18Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T05:53:02Z._
