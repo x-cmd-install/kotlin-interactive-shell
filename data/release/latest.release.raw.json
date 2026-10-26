@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 70104047,
       "digest": "sha256:e0ad3b249277e88d37955088bb37395a1d4ad6b17c00ecaf7e1701605cc0c351",
-      "download_count": 71,
+      "download_count": 83,
       "created_at": "2026-10-23T10:53:48Z",
       "updated_at": "2026-10-23T10:54:03Z",
       "browser_download_url": "https://github.com/Kotlin/kotlin-interactive-shell/releases/download/v0.6.0/ki-archive.zip"
