@@ -47,12 +47,12 @@ Total: **26,794** lines of code across **81** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 1 | 0 | 0 | 0 | 13 |
-| last60d | 2026-08-27 | 1 | 1 | 0 | 0 | 0 | 13 |
-| 90d | 2026-07-28 | 1 | 1 | 0 | 0 | 0 | 13 |
-| last180d | 2026-04-29 | 1 | 1 | 0 | 0 | 0 | 13 |
-| 360d | 2025-10-31 | 1 | 1 | 0 | 0 | 0 | 13 |
-| last720d | 2024-11-05 | 1 | 2 | 0 | 0 | 0 | 14 |
+| 30d | 2026-09-27 | 1 | 1 | 0 | 0 | 0 | 13 |
+| last60d | 2026-08-28 | 1 | 1 | 0 | 0 | 0 | 13 |
+| 90d | 2026-07-29 | 1 | 1 | 0 | 0 | 0 | 13 |
+| last180d | 2026-04-30 | 1 | 1 | 0 | 0 | 0 | 13 |
+| 360d | 2025-11-01 | 1 | 1 | 0 | 0 | 0 | 13 |
+| last720d | 2024-11-06 | 1 | 2 | 0 | 0 | 0 | 14 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for kotlin-interactive-shell lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T06:01:08Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:33:15Z._
