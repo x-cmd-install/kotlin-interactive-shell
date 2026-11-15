@@ -37,7 +37,7 @@ Total: **26,794** lines of code across **81** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 615 · **Forks**: 42 · **Open issues**: 87 · **Contributors**: 45
+- **Stars**: 616 · **Forks**: 42 · **Open issues**: 87 · **Contributors**: 45
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **26,794** lines of code across **81** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 1 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-15 | 1 | 1 | 0 | 0 | 0 | 13 |
-| 90d | 2026-08-16 | 1 | 1 | 0 | 0 | 0 | 13 |
-| last180d | 2026-05-18 | 1 | 1 | 0 | 0 | 0 | 13 |
-| 360d | 2025-11-19 | 1 | 1 | 0 | 0 | 0 | 13 |
-| last720d | 2024-11-24 | 1 | 2 | 0 | 0 | 0 | 14 |
+| 30d | 2026-10-16 | 1 | 1 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-16 | 1 | 1 | 0 | 0 | 0 | 13 |
+| 90d | 2026-08-17 | 1 | 1 | 0 | 0 | 0 | 13 |
+| last180d | 2026-05-19 | 1 | 1 | 0 | 0 | 0 | 13 |
+| 360d | 2025-11-20 | 1 | 1 | 0 | 0 | 0 | 13 |
+| last720d | 2024-11-25 | 1 | 2 | 0 | 0 | 0 | 14 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for kotlin-interactive-shell lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:32:23Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:20:03Z._
